@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, graphic design, and creating digital content
 - 🌱 I’m currently learning advanced front-end development and user interface design
 - 💞️ I’m looking to collaborate on web design projects, front-end development, and creative design campaigns
-- 📫 How to reach me boatengfrancis881@gmail.com||  @nana_agyenim307 on all social media platform
+- 📫 How to reach me boatengfrancis881@gmail.com|| https://x.com/nana_agyenim307
 - 😄 Pronouns: He
 - ⚡ Fun fact:I’m a tech enthusiast who enjoys combining creativity and coding to solve real-world problems!
 
