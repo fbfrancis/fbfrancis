@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fbfrancis
+- 👋 Hi, I’m Fosu Francis Boateng 
 - 👀 I’m interested in web development, graphic design, and creating digital content
 - 🌱 I’m currently learning advanced front-end development and user interface design
 - 💞️ I’m looking to collaborate on web design projects, front-end development, and creative design campaigns
