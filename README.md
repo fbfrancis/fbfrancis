@@ -1,12 +1,46 @@
-- 👋 Hi, I’m Fosu Francis Boateng 
-- 👀 I’m interested in web development, graphic design, and creating digital content
-- 🌱 I’m currently learning advanced front-end development and user interface design
-- 💞️ I’m looking to collaborate on web design projects, front-end development, and creative design campaigns
-- 📫 How to reach me boatengfrancis881@gmail.com|| https://x.com/nana_agyenim307
-- 😄 Pronouns: He
-- ⚡ Fun fact:I’m a tech enthusiast who enjoys combining creativity and coding to solve real-world problems!
+# Francis Boateng
 
-<!---
-fbfrancis/fbfrancis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software Developer | Graphic Designer | Cybersecurity Enthusiast**  
+Specializing in Flutter development, secure mobile applications, and UI/UX design.
+
+---
+
+## About Me
+
+I build secure, scalable, and user-focused mobile applications using Flutter and Firebase.  
+My background in design enables me to craft visually refined and intuitive user experiences.  
+With a strong interest in cybersecurity, I integrate safety and privacy principles into every project.
+
+---
+
+## Core Skills
+
+- Mobile App Development with Flutter & Dart  
+- Firebase Integration (Auth, Firestore, Storage)  
+- UI/UX Design & Prototyping (Figma, Adobe XD)  
+- Visual Identity & Branding  
+- Secure App Development Practices  
+
+---
+
+## Tools & Technologies
+
+- Flutter • Dart • Firebase  
+- Figma • Adobe Creative Suite  
+- Git & GitHub • REST APIs  
+- Visual Studio Code • Android Studio  
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fbfrancis&show_icons=true&theme=default&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fbfrancis&layout=compact&theme=default)
+
+---
+
+## Let's Connect
+
+I'm open to collaborations, freelance work, or creative partnerships that push boundaries.  
+Feel free to explore my repositories and reach out if something catches your interest.
