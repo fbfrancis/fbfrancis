@@ -1,4 +1,4 @@
-# Francis Boateng
+# Fosu Francis Boateng
 
 **Software Developer | Graphic Designer | Cybersecurity Enthusiast**  
 Specializing in Flutter development, secure mobile applications, and UI/UX design.
